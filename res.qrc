@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="ground.png">image/GROUND.png</file>
+        <file alias="bird">image/Normal_Bird_1.png</file>
+        <file>image/box.png</file>
+        <file>image/wall2.jpeg</file>
+        <file>image/slingshot.png</file>
+        <file alias="bird2">image/bird2.ico</file>
+        <file alias="bird4">image/bird4.png</file>
+        <file alias="bird3">image/bird3.png</file>
+        <file alias="background">image/background.png</file>
+        <file alias="enermy">image/enermy.ico</file>
+        <file alias="bali">image/bali.png</file>
+        <file alias="eye">image/god_eye.png</file>
+        <file alias="lu">image/lu.png</file>
+        <file alias="lui">image/luka.png</file>
+        <file alias="nen">image/nen.png</file>
+        <file alias="wall3">image/wall3.png</file>
+        <file alias="enermy3">image/enermy3.png</file>
+        <file alias="congrats">image/congrats.png</file>
+        <file alias="enermy2">image/enermy2 (cc).png</file>
+        <file alias="main">image/main.jpg</file>
+        <file alias="startButton">image/startButton.png</file>
+        <file alias="startMusic">image/Angry Birds Rio - Angry Birds Music.mp3</file>
+        <file alias="congratsMusic">image/congratsMusic.wav</file>
+        <file alias="moveBird">image/moveBird.wav</file>
+        <file alias="shootSound">image/shootSound.wav</file>
+        <file alias="shootSound2">image/shootSound2.wav</file>
+        <file alias="lu2">image/lu2.png</file>
+        <file alias="lu3">image/lu3.png</file>
+    </qresource>
+</RCC>
